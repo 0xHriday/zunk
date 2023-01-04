@@ -1,2 +1,1 @@
-# SolidityFromScratch
- 
+# 0xHriday.github.io
